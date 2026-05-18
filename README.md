@@ -12,3 +12,10 @@
     </a>
   </li>
 </ul>
+<ul>
+  <li>
+    <b>SOC Monitoring & Threat Investigation Lab</b><br/>
+    Built a controlled SOC lab using Kali Linux, Windows 10, VirtualBox, Nmap, Wireshark, and Windows Event Viewer to simulate reconnaissance, RDP connection attempts, failed login investigation, and packet analysis.<br/>
+    🔗 <a href="https://github.com/legansclifton8/SOC-Monitoring-Threat-Investigation-Lab">View Project</a>
+  </li>
+</ul>
