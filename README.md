@@ -27,4 +27,12 @@
       Wazuh SIEM Monitoring & Threat Investigation Lab
     </a>
   </li>
+
+  <br/>
+
+  <li>
+    <a href="https://github.com/legansclifton8/Active-Directory-Wazuh-SOC-Home-Lab">
+      Active Directory + Wazuh SOC Home Lab
+    </a>
+  </li>
 </ul>
