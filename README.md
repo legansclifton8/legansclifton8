@@ -1,6 +1,4 @@
-<h1>Hey employers, my name is Clifton Legans! <br/>
-<a href="https://www.linkedin.com/in/clifton-legans-a87990343/">Aspiring SOC Analyst</a> | 
-<a href="https://profile.indeed.com/?hl=en_US&co=US&from=gnav-homepage"></a>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0F0F,50:2D2D2D,100:6A0DAD&height=250&section=header&text=Clifton%20Legans&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Aspiring%20SOC%20Analyst&descAlignY=55"/>
 </h1>
 
 <h2>👨‍💻 Various SOC Analyst Projects:</h2>
@@ -36,3 +34,7 @@
     </a>
   </li>
 </ul>
+<h2>📜 Certifications</h2>
+
+<ul>
+  <li>CompTIA Security+ Certified</li>
