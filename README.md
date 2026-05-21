@@ -19,4 +19,12 @@
       SOC Monitoring & Threat Investigation Lab
     </a>
   </li>
+
+  <br/>
+
+  <li>
+    <a href="https://github.com/legansclifton8/wazuh-siem-home-lab">
+      Wazuh SIEM Monitoring & Threat Investigation Lab
+    </a>
+  </li>
 </ul>
